@@ -1,0 +1,11 @@
+Question 1 :
+Foo une fonction qui permet de merger des intervalle 
+la fonction prends comme entré un tableau d'intervalles pour des eléments 
+le principe est de pouvoir fusionner tous les intervalles qui s'intersectent, 
+puis retourner un tableau d'intervalles non  intersecter  qui couvrent tous les intervalles de l'entrée
+
+
+Question 3 :
+10min : analyse et compréhension des exemples
+2h :  Compréhension de la logique 
+1h:30 : Implémentaion de la solution avec Javascript
